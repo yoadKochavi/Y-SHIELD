@@ -14,8 +14,10 @@
 * **Memory Safety:** Implemented with custom exception handling to ensure robust scanning.
 
 ## 🎥 Demonstration
-![Main Dashboard](ui_scan.png)
-*(Note: Upload your screenshot named 'ui_scan.png' to the repository to see it here)*
+<img width="1213" height="804" alt="image" src="https://github.com/user-attachments/assets/e0f84426-6ec2-4694-82cf-7c7b11d5265e" />
+<img width="1217" height="806" alt="image" src="https://github.com/user-attachments/assets/bf8f4181-56bc-4002-89de-0e6371114040" />
+
+
 
 ## 🛠️ Architecture
 - **Core Engine (`scanner.c/h`):** High-efficiency logic compiled into a Win64 DLL.
