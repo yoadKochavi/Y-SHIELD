@@ -66,4 +66,4 @@ This project is for educational and low-level research purposes only. It is a fo
 
 Author: Yoad Kochavi
 
-Role: Security Researcher & Low-Level Developer
+Security Researcher & Low-Level Engineer
