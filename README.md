@@ -37,3 +37,17 @@ graph TD
     E & F & G --> H[JSON Report]
     H --> B
     B --> I[Visual Dashboard]
+
+
+
+## 🚀 Getting Started
+
+### **Installation**
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yoadKochavi/Y-SHIELD.git](https://github.com/yoadKochavi/Y-SHIELD.git)
+   cd Y-SHIELD
+
+
+gcc -shared -o scanner.dll scanner.c -m64 -O3
+python main.py
