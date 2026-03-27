@@ -46,17 +46,7 @@ The engine flags files based on several red flags:
 * **Environment:** Windows 10/11 x64.
 * **Language:** Python 3.10+.
 
-### Compilation (Core DLL)
+### 1. Compilation (Core DLL)
+Open your developer command prompt and run:
 ```bash
 cl.exe /LD /Fe:scanner.dll scanner.c /link /OPT:REF user32.lib
-
-Running the UI
-python ui.py
-
-🛡️ Disclaimer
-This project was developed for educational purposes and low-level research. It is intended as a forensic tool to understand binary structures and is not a replacement for a full AV/EDR solution.
-
-Author: Yoad Kochavi
-
-Aspiring Low-Level & Security Researcher
-
